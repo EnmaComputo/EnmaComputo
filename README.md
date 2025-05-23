@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Emma
 
 ## 1️⃣ Presentación personal
 🎓 Soy estudiante apasionado por la robótica.
